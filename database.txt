@@ -1,0 +1,40 @@
+cub1 singhs1 1 Sahejdeep
+pup1 dwyeran 1 Austin
+pup3 laoq 1 Qi
+pup4 cuix1 1 Xinhao
+pup5 cameroem 1 Eric
+cub8 elliottt 1 Jian
+pup8 chengc 1 Tiffany
+cub9 buckleed 1 Chi
+cub10 stokesl 1 Eric
+pup10 vokt 1 Liam
+cub11 colboukb 1 Khanh
+cub12 garga 1 Kaelan
+cub13 hirdm 1 Ayush
+pup15 kansals 1 Matthew
+cub16 brandlpa 1 Shubham
+pup16 kansals 1 Peter
+cub3 colboukb 1 Kaelan
+cub4 joshia 1 Anshul
+cub7 csci311a 1 CSCI
+pup7 waldenj 1 Joseph
+singhs1 1
+dwyeran 1
+laoq 1
+sidhurs 1
+cuix1 1
+cameroem 1
+jian 1
+elliottt 1
+chengc 1
+buckleed 1
+stokesl 1
+vokt 1
+garga 1
+hirdm 1
+kansals 1
+brandlpa 1
+colboukb 1
+joshia 1
+csci311a 1
+waldenj 1
